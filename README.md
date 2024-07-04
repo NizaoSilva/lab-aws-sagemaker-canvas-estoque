@@ -44,4 +44,4 @@ Esse é o desafio de projeto "Previsão de Estoque Inteligente na AWS com SageMa
 
 ## 🤔 Dúvidas?
 
-Espero que esta experiência tenha sido tão enriquecedora para você como foi para mim. Se tiver alguma dúvida, não hesite em abrir uma issue neste repositório ou entrar em contato com comigo.
+Espero que esta experiência tenha sido tão enriquecedora para você como foi para mim. Se tiver alguma dúvida, não hesite em abrir uma issue neste repositório ou entrar em contato comigo.
