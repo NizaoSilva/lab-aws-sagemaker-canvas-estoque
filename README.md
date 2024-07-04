@@ -11,9 +11,9 @@ Esse é o desafio de projeto "Previsão de Estoque Inteligente na AWS com SageMa
 
 ![image](https://github.com/digitalinnovationone/lab-aws-sagemaker-canvas-estoque/assets/730492/72f5c21f-5562-491e-aa42-2885a3184650)
 
-- Fazer fork do repositório do desafio da DIO, editar o `README.md` para descrever os procedimentos realizados para a resolução do problema.
-- Para isso, siga o [passo a passo] descrito a seguir e evolua as suas habilidades em ML no-code com o Amazon SageMaker Canvas.
-- Compartilhar a URL do repositório com a solução na plataforma da DIO.
+- Fazer fork do repositório do desafio da DIO e editar o `README.md` para descrever o desafio.
+- Descrever no [passo a passo] os procedimentos de Machine Learning no-code realizados no SageMaker Canvas.
+- Compartilhar a URL do repositório no bootcamp da plataforma DIO e em redes sociais.
 
 
 ## 🚀 Passo a Passo
